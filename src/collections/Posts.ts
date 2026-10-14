@@ -22,7 +22,7 @@ export const Posts: CollectionConfig = {
       unique: true,
     },
     {
-      name: 'exercpt',
+      name: 'excerpt',
       type: 'textarea',
     },
     {
